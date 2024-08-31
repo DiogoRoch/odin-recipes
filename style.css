@@ -6,12 +6,12 @@
 }
 
 body {
-    background-image: linear-gradient(to right, black, gray);
+    background-image: linear-gradient(to right, black, darkgray);
 }
 
 .content {
     width: 550px;
-    background-color: lightgoldenrodyellow;
+    background-color: white;
     margin: auto;
     margin-top: 25%;
     border-radius: 20px;
@@ -23,7 +23,7 @@ body {
 }
 
 .recipes {
-    border-top: solid 3px;
+    border-top: solid 5px;
 }
 
 h1 {
@@ -50,7 +50,7 @@ a {
     font-size: 30px;
     color: black;
     display: block;
-    background-color: lightcyan;
+    background-color: lightgray;
     padding: 15px;
     border: solid 5px black;
     border-radius: 15px;
@@ -58,5 +58,5 @@ a {
 }
 
 a:hover {
-    background-color: cyan;
+    background-color: darkgray;
 }
